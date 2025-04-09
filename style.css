@@ -146,7 +146,7 @@ h2 {
 
 /* Download Button Styling */
 #downloadBtn {
-    display: none; /* Initially hidden */
+    display: inline-block; /* Initially hidden */
     margin: 20px auto;
     padding: 12px 30px;
     font-size: 1.2rem;
